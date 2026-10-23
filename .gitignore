@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Runtime transcripts (written on every run by chatbot.py / summarizer.py)
+logs
+qa_log.json
+
+# Agent tooling (local)
+.atl/
